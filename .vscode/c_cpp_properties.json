@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/otonagi/catkin_ws/devel/include",
+        "/opt/ros/melodic/include",
+        "/home/otonagi/catkin_ws/src/rect/ros_lecture/adv_lecture/include",
+        "/home/otonagi/catkin_ws/src/ros_canopen/canopen_402/include",
+        "/home/otonagi/catkin_ws/src/ros_canopen/canopen_chain_node/include",
+        "/home/otonagi/catkin_ws/src/ros_canopen/canopen_master/include",
+        "/home/otonagi/catkin_ws/src/ros_canopen/canopen_motor_node/include",
+        "/home/otonagi/catkin_ws/src/fetch_gazebo/fetch_gazebo/include",
+        "/home/otonagi/catkin_ws/src/robot_controllers/robot_controllers/include",
+        "/home/otonagi/catkin_ws/src/robot_controllers/robot_controllers_interface/include",
+        "/home/otonagi/catkin_ws/src/robotiq/robotiq_2f_gripper_action_server/include",
+        "/home/otonagi/catkin_ws/src/robotiq/robotiq_2f_gripper_control/include",
+        "/home/otonagi/catkin_ws/src/robotiq/robotiq_3f_gripper_articulated_gazebo_plugins/include",
+        "/home/otonagi/catkin_ws/src/robotiq/robotiq_3f_gripper_control/include",
+        "/home/otonagi/catkin_ws/src/robotiq/robotiq_ethercat/include",
+        "/home/otonagi/catkin_ws/src/robotiq/robotiq_ft_sensor/include",
+        "/home/otonagi/catkin_ws/src/ros_canopen/socketcan_bridge/include",
+        "/home/otonagi/catkin_ws/src/ros_canopen/socketcan_interface/include",
+        "/home/otonagi/catkin_ws/src/universal_robot/ur_kinematics/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
